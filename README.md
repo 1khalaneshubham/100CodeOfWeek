@@ -15,20 +15,3 @@ To participate:
 4. Write your code to solve the challenge.
 5. Test your code with various inputs to ensure correctness.
 6. Once you're satisfied with your solution, share it with others by submitting a pull request to this repository.
-
-## Folder Structure
-WeekOfCode/
-├── Day1/
-│   └── README.md
-├── Day2/
-│   └── README.md
-├── Day3/
-│   └── README.md
-├── Day4/
-│   └── README.md
-├── Day5/
-│   └── README.md
-├── Day6/
-│   └── README.md
-└── Day7/
-    └── README.md
